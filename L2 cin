@@ -1,0 +1,17 @@
+#include<iostream>
+#include<stdlib.h>
+usingnamespace std;
+int main(){
+int computer;
+cin >> computer;
+double RAN;
+cin >> RAM;
+char jump;
+cin >> jump;
+
+cout << computer << endl;
+cout << RAM << endl;
+cout <<jump << endl;
+
+
+}
