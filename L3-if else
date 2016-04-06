@@ -1,0 +1,21 @@
+#include <iostream>
+#include <stdlib.h>
+
+usingnamespace std;
+int main(){
+  int computer;
+  cin >> compter;
+
+  if(computer>0)
+    {
+    cout << "You key in a mature number" << endl;
+    }
+  else if(computer<0)
+    {
+    cout << "你輸入一個負整數" << endl;  
+    }
+  else
+    {
+    cout << "You key in a number 0: <<endl;
+    }
+}
