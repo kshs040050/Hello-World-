@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 
-usingnamespace std;
+using namespace std;
 int main(){
   int computer;
   cin >> compter;
